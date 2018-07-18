@@ -1,0 +1,11 @@
+{
+  "name": "compile-test",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nan": "^2.10.0",
+    "node-addon-api": "^1.3.0",
+    "node-gyp": "https://github.com/yeerkkiller1/node-gyp"
+  }
+}
